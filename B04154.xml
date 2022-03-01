@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Londoners lamentation. Wherein is contained a sorrowfull description of the dreadful fire which happened in Pudding-Lane ... on the second of Septemb. 1666 ... With an account of the King and the Duke of York's indeavors ... for the quenching of the same ... and the name of every particular place where the fire did stop. Tune is, When Troy town, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04154</idno>
+            <idno type="STC">Wing L2912B</idno>
+            <idno type="STC">ESTC R180117</idno>
+            <idno type="EEBO-CITATION">47012512</idno>
+            <idno type="OCLC">ocm 47012512</idno>
+            <idno type="VID">174479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174479)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Londoners lamentation. Wherein is contained a sorrowfull description of the dreadful fire which happened in Pudding-Lane ... on the second of Septemb. 1666 ... With an account of the King and the Duke of York's indeavors ... for the quenching of the same ... and the name of every particular place where the fire did stop. Tune is, When Troy town, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clark ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 1 illustration.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Fire, London, England, 1666 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174479:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>The <hi>LONDONERS</hi> Lamentation.</head>
+            <argument>
+               <p>Wherein is contained a ſorrowfull Deſcription of the dreadful Fire which happened in Pud<g ref="char:EOLhyphen"/>ding-Lane, next, beyond Fiſh-ſtreet-hill on the ſecond of Septemb. 1666. betwixt twelve and one of the clock in the morning, being Sunday, and continued untill the Thursday night following: VVith an account of the King and the Duke of York's indeavours with ſeveral Peers of the Land, for the quenching of the ſame; Alſo the manner of doing it, and the name of every particular place where the fire did ſtop.</p>
+            </argument>
+            <opener>Tune is, VVhen Troy town, &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>LEt water flow from every eye,</l>
+               <l>Of all good Subjects in the Land,</l>
+               <l>Mountains of fire were raiſed high,</l>
+               <l>Which <hi>Londons</hi> City did command;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Waſte lye thoſe buildings were ſo good,</hi>
+                  </l>
+                  <l>
+                     <hi>And Aſhes lye where London ſtood.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Old <hi>London</hi> that a thouſand years,</l>
+               <l>the téeth of time could never waſte,</l>
+               <l>Now to our miſery appears,</l>
+               <l>in five daies ſpace tis burnt at laſt;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Waſte lye thoſe Fabricks were ſo good,</hi>
+                  </l>
+                  <l>
+                     <hi>And Cinders lye where London ſtood.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The ſecond of <hi>September,</hi> at</l>
+               <l>the diſmal hours 'twixt twelve and one;</l>
+               <l>At mid-night, up the fire gat,</l>
+               <l>in <hi>Pudding-Lane</hi> and brightly ſhone;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Our Engines all could do no good,</hi>
+                  </l>
+                  <l>
+                     <hi>Till Aſhes lay where London ſtood.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>It over-flow;d New <hi>Fiſh-ſtreet-hill,</hi>
+               </l>
+               <l>and then gave fire to <hi>Canon-ſtreet,</hi>
+               </l>
+               <l>Then through the Lanes, about did whéel,</l>
+               <l>until it with the <hi>Thames</hi> did méet,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>As if it would have dry'd the Flood,</hi>
+                  </l>
+                  <l>
+                     <hi>And left duſt where the River ſtood.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A Strong aſſiſting <hi>Eaſtern</hi>-winde,</l>
+               <l>with liberal Lungs did fan the Flame,</l>
+               <l>The Fire ſo in the water ſhin'd,</l>
+               <l>you would have thought 'thad been the ſame,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The Flames which ſwallow all they meet,</hi>
+                  </l>
+                  <l>
+                     <hi>Makes nothing to deſtroy a Street.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Great Congregations made of ſparks,</l>
+               <l>fill all the Churches in the Town,</l>
+               <l>That fly up like a Flock of Larks,</l>
+               <l>the Bells and Leads are melted down;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>'Cauſe we from ſin will not return,</hi>
+                  </l>
+                  <l>
+                     <hi>Pulpits themſelves in Aſhes mourn.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Pitch, Tar, Oyle, Flax and ancient Wood</l>
+               <l>did make the raging Fire ſo rant,</l>
+               <l>It would not quench, unleſſe we cou'd</l>
+               <l>at once have thrown the <hi>Thames</hi> upon't;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The fire had burnt up without fear,</hi>
+                  </l>
+                  <l>
+                     <hi>Had Humber, Trent, and Tweed been there.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Citizens can nothing do,</l>
+               <l>but lug their treaſure out of town,</l>
+               <l>Thirty pound Carts are hired now,</l>
+               <l>each private man looks to his own</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But every paſſenger they greet,</hi>
+                  </l>
+                  <l>
+                     <hi>With Sugar and Wine in every ſtreet.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Vp to the old <hi>Exchange</hi> the fire,</l>
+               <l>with bold ambitious wings did fly,</l>
+               <l>And to the top on't did aſpire,</l>
+               <l>until it all did levil lye;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But Greſham (he that built it) ſtands,</hi>
+                  </l>
+                  <l>
+                     <hi>In ſpight of Vulcan's hot commands.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The lofty front of pearleſs <hi>Powls,</hi>
+               </l>
+               <l>is now beſieged with the Flame,</l>
+               <l>In which his wooden intrails rowls,</l>
+               <l>but bravely doth with-ſtand the ſame,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And maſſy ſtones like ſhot lets fly,</hi>
+                  </l>
+                  <l>
+                     <hi>Out of its own Artillery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Women lying in, and Cripples crawl</l>
+               <l>out of their beds, into the Field,</l>
+               <l>Leaſt fire ſhould conſume them all,</l>
+               <l>'gainſt which they had no other ſhield;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>In every place the fields were ſtrew'd</hi>
+                  </l>
+                  <l>
+                     <hi>Which like to a great Leaguer ſhew'd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Our gracious King, the Duke of <hi>York,</hi>
+               </l>
+               <l>the Life-guards and their noble Lords,</l>
+               <l>Both day and night, did watch and work,</l>
+               <l>to pull down houſes, walls, and boards</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That fire might no further go,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſo conſume the Suburbs too.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>God gave a bleſſing to their hands,</l>
+               <l>for by this means the flames grew lower,</l>
+               <l>It did at once obey Commands,</l>
+               <l>both at the <hi>Temple,</hi> and the <hi>Tower,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>At Pie-corner, and Alderſgate,</hi>
+                  </l>
+                  <l>
+                     <hi>The fire loſt his Flaming ſtate.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At <hi>Holborn-bridge</hi> and <hi>Cripple-gate,</hi>
+               </l>
+               <l>and in the midſt of <hi>Coleman-ſtreet,</hi>
+               </l>
+               <l>And <hi>Baſing-hall</hi> it was laid flat,</l>
+               <l>it did ſuch oppoſition méet,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Biſhops-gate-ſtreet and Leaden-hall,</hi>
+                  </l>
+                  <l>
+                     <hi>To Cornhil-Standard are ſaved all.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Iuſt at <hi>Fan-Church</hi> in <hi>Fan-Church-ſtreet,</hi>
+               </l>
+               <l>Cloath-workers hall in <hi>Mincing-Lane,</hi>
+               </l>
+               <l>The fire could no further get,</l>
+               <l>and in <hi>Mark-Lane</hi> was quench'd again;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And now with heavy loſſes, we</hi>
+                  </l>
+                  <l>
+                     <hi>Are rid of this hot miſery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Of <hi>French</hi> and <hi>Dutch</hi> many were took</l>
+               <l>(upon ſuſpition of a Plot,</l>
+               <l>That they this ruine ſhould provoke</l>
+               <l>with fire-works) which will all be brought</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Unto their tryal, but I fear,</hi>
+                  </l>
+                  <l>
+                     <hi>Our ſinful hearts more guilty are.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Three of Gods ſharpeſt Arrows are</l>
+               <l>and have béen at us lately ſhot,</l>
+               <l>Civil War, Peſtilence and Fire,</l>
+               <l>for Pride and Gain, there lies the Plot,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Beware the fourth, for if it fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Grim Famine will confound us all.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I know each Citizen hath drank</l>
+               <l>a ſcalding draught of this hot Cup,</l>
+               <l>But let him not (to mend his bank)</l>
+               <l>uſe gréedy Gains to get it up,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let them conſider what they do,</hi>
+                  </l>
+                  <l>
+                     <hi>Their Cuſtomers are Sufferers too.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then let us with hearts undefil'd,</l>
+               <l>thank God his Mercies are ſo great,</l>
+               <l>As that the Fire hath not ſpoyl'd</l>
+               <l>the Suburbs and the Royal Seat:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>If we ſtill hate each other thus,</hi>
+                  </l>
+                  <l>
+                     <hi>God never will be friends with us.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>Fini<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for J. Clark, at the Bible and Harp, in Weſt-Smithfield, With Allowance<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
